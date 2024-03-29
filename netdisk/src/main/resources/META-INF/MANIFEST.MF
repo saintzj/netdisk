@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Main-Class: com.netdisk.NetdiskApplication
+Class-Path: aspectjweaver-1.9.4.jar spring-boot-starter-tomcat-2.6.1.jar
+  mysql-connector-java-8.0.23.jar logback-classic-1.2.10.jar log4j-to-sl
+ f4j-2.14.1.jar jackson-datatype-jdk8-2.13.0.jar spring-boot-starter-jso
+ n-2.6.1.jar spring-beans-5.3.13.jar spring-jcl-5.3.13.jar okhttp-3.2.0.
+ jar spring-web-5.3.13.jar netty-common-4.1.70.Final.jar spring-boot-sta
+ rter-2.6.1.jar tomcat-embed-el-9.0.55.jar spring-jdbc-5.3.13.jar spring
+ -boot-starter-logging-2.6.1.jar jakarta.annotation-api-1.3.5.jar mybati
+ s-3.4.6.jar jul-to-slf4j-1.7.32.jar jackson-module-parameter-names-2.13
+ .0.jar netty-transport-4.1.70.Final.jar spring-aop-5.3.13.jar spring-co
+ re-5.3.13.jar HikariCP-4.0.3.jar jackson-core-2.13.0.jar mybatis-spring
+ -boot-starter-1.3.2.jar spring-boot-autoconfigure-2.6.1.jar spring-cont
+ ext-support-5.3.13.jar spring-oxm-5.3.13.jar fastjson-1.2.66.jar log4j-
+ api-2.14.1.jar snakeyaml-1.29.jar netty-codec-4.1.70.Final.jar commons-
+ lang3-3.4.jar spring-boot-starter-mail-2.6.1.jar reactor-core-3.4.12.ja
+ r tomcat-embed-core-9.0.55.jar logback-core-1.2.10.jar spring-data-comm
+ ons-2.6.0.jar spring-tx-5.3.13.jar mybatis-spring-boot-autoconfigure-1.
+ 3.2.jar jakarta.mail-1.6.7.jar slf4j-api-1.7.32.jar spring-data-redis-2
+ .6.0.jar netty-buffer-4.1.70.Final.jar jackson-databind-2.13.0.jar reac
+ tive-streams-1.0.3.jar jackson-annotations-2.13.0.jar spring-context-5.
+ 3.13.jar spring-webmvc-5.3.13.jar spring-boot-starter-jdbc-2.6.1.jar ja
+ ckson-datatype-jsr310-2.13.0.jar spring-data-keyvalue-2.6.0.jar netty-r
+ esolver-4.1.70.Final.jar tomcat-embed-websocket-9.0.55.jar commons-code
+ c-1.9.jar jakarta.activation-1.2.2.jar mybatis-spring-1.3.2.jar okio-1.
+ 6.0.jar commons-io-2.5.jar netty-handler-4.1.70.Final.jar spring-boot-2
+ .6.1.jar lettuce-core-6.1.5.RELEASE.jar spring-boot-starter-web-2.6.1.j
+ ar spring-boot-starter-data-redis-2.6.1.jar spring-expression-5.3.13.ja
+ r
+

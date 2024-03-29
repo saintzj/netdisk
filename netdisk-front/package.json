@@ -1,0 +1,36 @@
+{
+  "name": "netdisk-front",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@highlightjs/vue-plugin": "^2.1.0",
+    "@moefe/vue-aplayer": "^2.0.0-beta.5",
+    "aplayer": "^1.10.1",
+    "axios": "^1.6.2",
+    "docx-preview": "^0.1.20",
+    "dplayer": "^1.27.1",
+    "element-plus": "^2.4.3",
+    "highlight.js": "^11.9.0",
+    "js-md5": "^0.8.3",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "spark-md5": "^3.0.2",
+    "vue": "^3.3.10",
+    "vue-clipboard3": "^2.0.0",
+    "vue-cookies": "^1.8.3",
+    "vue-pdf-embed": "^1.2.1",
+    "vue-router": "^4.2.5",
+    "vue3-pdfjs": "^0.1.6",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.1",
+    "vite": "^5.0.5"
+  }
+}
